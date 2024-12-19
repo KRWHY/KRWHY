@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HyperWHY)](https://git.io/typing-svg)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KRWHY)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Hello+World%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 <!--
 **KRWHY/KRWHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
